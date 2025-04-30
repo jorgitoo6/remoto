@@ -1,2 +1,4 @@
 Primera linea del archivo
 Llamado activ31.txt
+Añado una línea desde master 
+Añado otra línea desde master
